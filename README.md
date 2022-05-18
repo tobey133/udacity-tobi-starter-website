@@ -1,5 +1,14 @@
 ## Travel Blog 
 
+This project is to show how to host a static website with s3 and also access it with cloudfront too 
+
+1) create an s3 bucket
+2) The S3 bucket is visible in the AWS Management console.
+3) Screenshot showing all website files uploaded to the S3 bucket 
+4) The S3 bucket is configured to support static website hosting.
+5) The bucket should allow public access. The S3 bucket has an IAM bucket policy that makes the bucket contents publicly accessible.
+6) CloudFront has been enabled to retrieve and distribute website files.
+7) Website is accessible publicly through both the endpoints.
 
 
 
