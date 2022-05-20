@@ -2,8 +2,9 @@
 
 This project is to show how to host a static website with s3 and also access it with cloudfront too 
 
-link to my website cloudfront: https://d2p6l802lnrd0e.cloudfront.net
-wbesite s3 url: http://tobiainaudacityproject.s3-website.us-east-2.amazonaws.com
+wbesite url: http://tobiainaudacityproject.s3-website.us-east-2.amazonaws.com
+link to my cloudfront: https://d2p6l802lnrd0e.cloudfront.net
+
 link to screenshot of steps followed: https://drive.google.com/drive/folders/183ZilFqGRpdc7RKWvR8Yf9KmUn7d4uUD?usp=sharing
 
  create an s3 bucket
