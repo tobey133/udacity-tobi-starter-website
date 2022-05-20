@@ -12,6 +12,9 @@ link to screenshot of steps followed: https://drive.google.com/drive/folders/183
 
 The S3 bucket is visible in the AWS Management console.
 
+The S3 bucket is configured to support static website hosting.
+![configuration to support static website hosting](https://user-images.githubusercontent.com/54315781/169029661-16677e1a-f5cf-4484-a206-25bb5f50e986.jpg)
+
 ![s3 bucket created](https://user-images.githubusercontent.com/54315781/168576220-42ccca06-1b9a-4315-af41-ca10d331c1d0.jpg)
 
 Screenshot showing all website files uploaded to the S3 bucket 
